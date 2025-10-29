@@ -2,8 +2,9 @@ import streamlit as st
 
 with st.sidebar:
     st.markdown("### Credits")
-    st.page_link("https://github.com/<M-Seth>", label="M-Seth — GitHub", icon=":material/person:")
-    st.page_link("https://github.com/<rish-vish>", label="rish-vish — GitHub", icon=":material/person:")
+    st.markdown("[Manav Seth — GitHub](https://github.com/M-Seth)")
+    st.markdown("[Rishik Vishwakarma — GitHub](https://github.com/rish-vish)")
+
 
 # app.py
 import streamlit as st
