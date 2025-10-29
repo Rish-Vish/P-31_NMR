@@ -2,7 +2,7 @@ import streamlit as st
 
 with st.sidebar:
     st.markdown("### Credits")
-    st.markdown("[Manav Seth — GitHub](https://github.com/M-Seth)")
+    st.markdown("[Manav Seth — GitHub](https://github.com/orgs/P31-NMR-2025/repositories)")
     st.markdown("[Rishik Vishwakarma — GitHub](https://github.com/rish-vish)")
 
 
