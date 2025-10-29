@@ -1,3 +1,10 @@
+import streamlit as st
+
+with st.sidebar:
+    st.markdown("### Credits")
+    st.page_link("https://github.com/<your_username>", label="Your Name — GitHub", icon=":material/person:")
+    st.page_link("https://github.com/<senior_username>", label="Senior Name — GitHub", icon=":material/person:")
+
 # app.py
 import streamlit as st
 import pandas as pd
